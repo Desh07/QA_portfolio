@@ -16,7 +16,7 @@ Hi! I'm Deshanth, a final-year BIT undergraduate specialising in Software Qualit
 
 | # | Project | Type | Tools | Link |
 |---|---------|------|-------|------|
-| 1 | Saucedemo E-commerce Manual Testing | Manual Testing | Excel | [View Repo]([https://github.com/Desh07/saucedemo-manual-testing](https://github.com/Desh07/Manual_Testing_SauceDemo/blob/main/SauceDemo_TestCase_Document.xlsx)) |
+| 1 | Saucedemo E-commerce Manual Testing | Manual Testing | Excel | [View Repo](https://github.com/Desh07/Manual_Testing_SauceDemo) |
 
 ---
 
@@ -33,7 +33,7 @@ Hi! I'm Deshanth, a final-year BIT undergraduate specialising in Software Qualit
 - Applied Equivalence Partitioning — grouped login inputs into valid, invalid, empty, and locked-out partitions for efficient test coverage
 - Produced a complete professional test case document in Excel with separate sheets for Login Tests, Dashboard Tests, Bug Reports, and a Test Summary dashboard with automated pass/fail counts
 
-🔗 [github.com/Desh07/saucedemo-manual-testing](https://github.com/Desh07/saucedemo-manual-testing)
+🔗 [github.com/Desh07/Manual_Testing_SauceDemo](https://github.com/Desh07/Manual_Testing_SauceDemo)
 
 ---
 
