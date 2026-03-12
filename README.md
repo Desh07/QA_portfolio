@@ -1,67 +1,40 @@
-# QA Portfolio — Vishvalingam Deshanth
+# 👋 QA Portfolio — Vishvalingam Deshanth
 
-A collection of software quality assurance projects including manual testing,
-test case documentation, bug reporting, and API testing work.
-
-📧 desh0sevn@gmail.com
-🔗 linkedin.com/in/deshanth-vishvalingam-92a60a35b
+Hi! I'm Deshanth, a final-year BIT undergraduate specialising in Software Quality Assurance. This portfolio showcases my hands-on QA projects including manual testing, test case design, bug reporting, and exploratory testing.
 
 ---
 
-## 📁 Project 1 — Saucedemo E-commerce Application
+## 🔗 Connect with Me
 
-**Application Under Test:** https://www.saucedemo.com
-**Type:** Manual Testing
-**File:** Saucedemo_TestCase_Document.xlsx
-
-### Scope of Testing
-- Login functionality — valid credentials, invalid credentials, locked out user, edge cases
-- Products page — product display, sorting functionality, product detail page
-- Shopping cart — add to cart, remove from cart, cart badge updates
-- Checkout flow — form validation, order completion, confirmation page
-- Exploratory testing — identifying defects using the problem_user persona
-
-### Test Deliverables
-| Deliverable | Details |
-|---|---|
-| Login Test Cases | 6 test cases covering positive and negative scenarios |
-| Dashboard Test Cases | 10 test cases covering products, cart, and checkout |
-| Bug Reports | 5 defects documented with steps to reproduce, severity, and priority |
-
-### Bugs Found (problem_user)
-| Bug ID | Summary | Severity |
-|---|---|---|
-| BUG_001 | Wrong product images displayed for all products | Major |
-| BUG_002 | Add to Cart button unresponsive on some products | Critical |
-| BUG_003 | The sort by product listing funtionality is not working | Major |
-| BUG_004 | The remove button is not working in the product page | Major |
-| BUG_005 | Unable to enter text on the last name field | Critical |
-
-### Tools Used
-- Manual Testing
-- Mozilla Firefox (test execution browser)
-- Microsoft Excel (test case documentation)
+- 📧 desh0sevn@gmail.com
+- 💼 [linkedin.com/in/vishvalingam-deshanth](https://www.linkedin.com/in/vishvalingam-deshanth)
+- 🐙 [github.com/Desh07](https://github.com/Desh07)
 
 ---
 
-## 🛠️ Skills & Tools
+## 📁 Projects
 
-| Category | Details |
-|---|---|
-| Testing Types | Manual Testing, Exploratory Testing, Regression Testing, Smoke Testing |
-| Test Design | Test Case Writing, Bug Reporting, Equivalence Partitioning |
-| API Testing | Postman — certified Postman API Fundamentals Student Expert |
-| Tools | Excel |
+| # | Project | Type | Tools | Link |
+|---|---------|------|-------|------|
+| 1 | Saucedemo E-commerce Manual Testing | Manual Testing | Excel | [View Repo]([https://github.com/Desh07/saucedemo-manual-testing](https://github.com/Desh07/Manual_Testing_SauceDemo/blob/main/SauceDemo_TestCase_Document.xlsx)) |
 
 ---
 
-## 📜 Certifications
+## 📌 Project Details
 
-- ✅ **Postman API Fundamentals Student Expert** — Postman (2026)
+### 1. Saucedemo E-commerce Manual Testing
+
+**Type:** Manual Testing  
+**Tools:** Excel  
+
+**What I did:**
+- Designed and executed 20+ structured manual test cases covering login, product listing, cart, and checkout functionality
+- Performed exploratory testing using the `problem_user` persona — identified and documented 5 defects including broken UI, non-functional cart buttons, and unresponsive checkout fields
+- Applied Equivalence Partitioning — grouped login inputs into valid, invalid, empty, and locked-out partitions for efficient test coverage
+- Produced a complete professional test case document in Excel with separate sheets for Login Tests, Dashboard Tests, Bug Reports, and a Test Summary dashboard with automated pass/fail counts
+
+🔗 [github.com/Desh07/saucedemo-manual-testing](https://github.com/Desh07/saucedemo-manual-testing)
 
 ---
 
-## 📚 Education
-
-**BIT (Hons) in Networking & Mobile Computing**
-Horizon Campus, Malabe — Currently Studying
+*More projects will be added as I continue building my QA skills.*
