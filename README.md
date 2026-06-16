@@ -1,40 +1,77 @@
-# 👋 QA Portfolio — Vishvalingam Deshanth
+# 👋 QA Portfolio - Vishvalingam Deshanth
 
-Hi! I'm Deshanth, a final-year BIT undergraduate specialising in Software Quality Assurance. This portfolio showcases my hands-on QA projects including manual testing, test case design, bug reporting, and exploratory testing.
+## 🧪 Manual QA Engineer | Test Case Design | Bug Reporting
+
+Final-year BIT undergraduate and aspiring QA Engineer with hands-on experience in manual testing, test case design, test execution, and defect reporting for web applications.
 
 ---
 
-## 🔗 Connect with Me
+## 📌 Skills
 
-- 📧 desh0sevn@gmail.com
-- 💼 [linkedin.com/in/vishvalingam-deshanth](https://www.linkedin.com/in/vishvalingam-deshanth)
-- 🐙 [github.com/Desh07](https://github.com/Desh07)
+* Manual Testing
+* Test Case Design
+* Test Scenario Design
+* Bug Reporting
+* Exploratory Testing
+* Equivalence Partitioning
+* Boundary Value Analysis (basic)
+* Regression Testing
+* System Testing
+
+---
+
+## 🛠 Tools
+
+* Microsoft Excel (Test Cases, Bug Reports)
+* Git & GitHub
+* Web Browsers (Cross-browser testing)
+* Postman
 
 ---
 
 ## 📁 Projects
 
-| # | Project | Type | Tools | Link |
-|---|---------|------|-------|------|
-| 1 | Saucedemo E-commerce Manual Testing | Manual Testing | Excel | [View Repo](https://github.com/Desh07/Manual_Testing_SauceDemo) |
+### 🧪 1. HRIS System Manual Testing
+
+**Type:** Web Application Testing
+**Focus:** Employee & Admin Portals
+
+**Key Work:**
+
+* Designed structured test scenarios for both Employee and Admin modules
+* Created detailed test cases covering functional and UI validation
+* Documented defects with severity and priority classification
+* Produced structured test reports including execution results and summaries
+
+🔗 GitHub: https://github.com/Desh07/HRIS-Manual-Testing-Project
 
 ---
 
-## 📌 Project Details
+### 🛒 2. SauceDemo E-commerce Manual Testing
 
-### 1. Saucedemo E-commerce Manual Testing
+**Type:** E-commerce Testing
+**Tools:** Excel
 
-**Type:** Manual Testing  
-**Tools:** Excel  
+**Key Work:**
 
-**What I did:**
-- Designed and executed 20+ structured manual test cases covering login, product listing, cart, and checkout functionality
-- Performed exploratory testing using the `problem_user` persona — identified and documented 5 defects including broken UI, non-functional cart buttons, and unresponsive checkout fields
-- Applied Equivalence Partitioning — grouped login inputs into valid, invalid, empty, and locked-out partitions for efficient test coverage
-- Produced a complete professional test case document in Excel with separate sheets for Login Tests, Dashboard Tests, Bug Reports, and a Test Summary dashboard with automated pass/fail counts
+* Designed 20+ test cases covering login, product listing, cart, and checkout modules
+* Performed exploratory testing using problem_user and performance_glitch_user scenarios
+* Identified and documented multiple UI and functional defects
+* Applied Equivalence Partitioning for login input validation testing
 
-🔗 [github.com/Desh07/Manual_Testing_SauceDemo](https://github.com/Desh07/Manual_Testing_SauceDemo)
+🔗 GitHub: https://github.com/Desh07/Manual_Testing_SauceDemo
 
 ---
 
-*More projects will be added as I continue building my QA skills.*
+## 📊 Testing Approach
+
+* Requirement analysis → Test scenario design → Test case creation → Execution → Defect reporting → Summary reporting
+* Focus on functional correctness, usability, and edge case validation
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [desh0sevn@gmail.com](mailto:desh0sevn@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/vishvalingam-deshanth](https://www.linkedin.com/in/vishvalingam-deshanth/)
+* 🐙 GitHub: [github.com/Desh07](https://github.com/Desh07)
